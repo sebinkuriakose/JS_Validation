@@ -1,0 +1,53 @@
+
+.formDiv
+{
+	background-color: #020181;
+	height:100px;
+	width:100%;
+
+}
+
+.sideBar
+{
+	background-color: #020181;
+	height:43em;
+	width:10%;
+	float: left;
+}
+
+#signupForm
+{
+	float: left;
+	padding: 4% 0 0 16%;
+}
+
+.headPara
+{
+	color: #020181;
+    font-size: 25px;
+    padding: 1% 0 0 46%;
+}
+
+.errorColor
+{
+	color: red;
+	margin-left: 132px;
+}
+
+.textSpan
+{
+	font-size: 16px;
+	color: green;
+}
+
+input
+{
+	margin: 9px 0 6px 25px;
+}
+
+input[type='button']
+{
+	margin-left: 78px;
+    padding: 6px;
+    width: 50%;
+}
